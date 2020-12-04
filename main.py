@@ -5,7 +5,6 @@ from flask_mysqldb import MySQL
 
 print('Hacer las peticiones')
 
-
 # Creando la aplicación
 app = Flask(__name__)
 
